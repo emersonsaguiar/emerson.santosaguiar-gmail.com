@@ -1,2 +1,2 @@
-# emerson.santosaguiar-gmail.com
+# Visualização de Dados com Matplotlib
 Matplotlib
